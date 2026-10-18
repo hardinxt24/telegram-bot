@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "8788093564:AAE0-Vuc2GunWbBquE5AWPtYx9oW385k5tY"
+TOKEN = "7085020077:AAHEG9dH4SxU8tw62P_fSOj3ap_MnoPqbko"
 ADMIN_ID = 8454986179
 
 def save_user(user_id):
@@ -39,4 +39,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-                
