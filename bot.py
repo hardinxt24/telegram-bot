@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "7085020077:7085020077:AAFaj_B4ZbUaVLZ6omMFSpb3Yggdeb4-Ytw"
+TOKEN = "7085020077:AAFaj_B4ZbUaVLZ6omMFSpb3Yggdeb4-Ytw"
 ADMIN_ID = 8454986179
 
 def save_user(user_id):
